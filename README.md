@@ -21,6 +21,8 @@ Especially, I am currently working on the following topics:
 * Quantum adiabatic algorithms
 * Disordered quantum spin systems and topological states
 
+⚡ Fun fact: This is a new account I will try to maintain! 
+
 <!--
 **hongyehu/hongyehu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
