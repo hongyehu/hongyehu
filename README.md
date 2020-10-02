@@ -13,6 +13,12 @@ Especially, I am currently working on the following topics:
   - Machine learning & AdS/CFT duality 
   - AI scientists 
   
+:book: Education:
+* **2012-2016** Peking University, Department of Physics. Advisor: Prof. Biao Wu
+* **2018-2022(Expected)** University of California, San Diego, Department of Physics. Advisor: Prof. Yi-Zhuang You.
+
+**Will actively seek for postdoc position in 2021 summer, focus on Machine Learning, Representation Learning, and Physical Science**
+  
 :clipboard: You can find more info at [My website](https://www.hongyehu.com)
 
 😄 I am open for collaborations if you share the same passion for combine science and machine learning.
