@@ -1,17 +1,17 @@
 ### Hi there 👋
 My name is Hong-Ye Hu(扈鸿业). I am a physics PhD candidate at University of California, San Diego. 
-I am currently working on the interface between physics and machine learning. 
+I am currently working on the interface between **physics** and **machine learning**. 
 Especially, I am currently working on the following topics:
-* Unsupervised learning:
+* **Unsupervised learning**:
   - Flow-based generative models, energy-based models, auto-regressive models
   - Representation learning/disentangle representation
   - Neural ODE/PDE
-* Renormalization group in machine learning and multi-scale representations
+* **Renormalization group** in machine learning and multi-scale representations
 * Physics:
-  - Efficient sampling in energy models (lattice models, field theory models)
+  - **Efficient sampling** in energy models (lattice models, field theory models)
   - Machine learning & AdS/CFT duality 
   - AI scientists 
-* Neural symbolic regressions
+* **Neural symbolic regressions**
 
 :book: Education:
 * **2012-2016** Peking University, Department of Physics. Advisor: Prof. Biao Wu
