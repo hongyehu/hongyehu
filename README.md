@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 
 My name is Hong-Ye Hu(扈鸿业). I am a physics PhD candidate at University of California, San Diego. 
 I am currently working on the interface between **physics** and **machine learning**. 
 Especially, I am currently working on the following topics:
@@ -21,7 +21,7 @@ Especially, I am currently working on the following topics:
   
 :clipboard: You can find more info at [My website](https://www.hongyehu.com)
 
-😄 I am open for collaborations if you share the same passion for combine science and machine learning.
+I am open for collaborations if you share the same passion for combine science and machine learning.
 
 🔭 On the physics side, I used to work on:
 * Quantum adiabatic algorithms
