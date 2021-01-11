@@ -6,12 +6,14 @@ Especially, I am currently working on the following topics:
   - Flow-based generative models, energy-based models, auto-regressive models
   - Representation learning/disentangle representation
   - Neural ODE/PDE
+  - RNN, attention-based RNN, and Natural Language Process
 * **Renormalization group** in machine learning and multi-scale representations
 * Physics:
   - **Efficient sampling** in energy models (lattice models, field theory models)
   - Machine learning & AdS/CFT duality 
+  - **Quantum information & AI**: Quantum state tomography, variational quantum circuits
   - AI scientists 
-* **Neural symbolic regressions**
+
 
 :book: Education:
 * **2012-2016** Peking University, Department of Physics. Advisor: Prof. Biao Wu
