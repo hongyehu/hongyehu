@@ -1,35 +1,31 @@
 ### Hi there 
 My name is Hong-Ye Hu(扈鸿业). I am a physics PhD candidate at University of California, San Diego. 
-I am currently working on the interface between **physics** and **machine learning**. 
+I am currently working on the interface between **quantum information**, **many-body physics** and **machine learning**. 
 Especially, I am currently working on the following topics:
-* **Unsupervised learning**:
-  - Flow-based generative models, energy-based models, auto-regressive models
-  - Representation learning/disentangle representation
-  - Neural ODE/PDE
-  - RNN, attention-based RNN, and Natural Language Process
-* **Renormalization group** in machine learning and multi-scale representations
-* Physics:
-  - **Efficient sampling** in energy models (lattice models, field theory models)
-  - Machine learning & AdS/CFT duality 
-  - **Quantum information & AI**: Quantum state tomography, variational quantum circuits
-  - AI scientists 
+* **Machine learning & Physics**:
+  - Neural network renormalization group to Holographic mapping, and lattice field theory simulation. [Paper](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.2.023369)
+  - Apply renormalization group to real data, like human face. [Paper](https://arxiv.org/pdf/2010.00029.pdf)
+  - Neural ODE and holographic QCD. [Paper](https://arxiv.org/pdf/2006.00712.pdf)
+  - Tensor networks via auto-differeniation. (In preparation)
+* **Quantum information & Machine learning**:
+  - Theoretical bound of classical shadow tomography using shadow circuits
+  - Variational quantum circuits
+  - Quantum state tomography using neural networks
+  - Resonant quantum search with monitor qubits.
+* **Condensed matter physics**:
+  - Topological and symmetry-enriched random quantum critical points.[Paper](https://arxiv.org/pdf/2008.02285.pdf)
+  - Detecting confinement-deconfinement phase transition in disorder toric code using spectrum bifurcation renormalization group. (in preparation)
+  - Quantum Magnetism in Wannier-Obstructed Mott Insulators. [Paper](https://arxiv.org/pdf/2005.01439.pdf)
 
 
 :book: Education:
-* **2012-2016** Peking University, Department of Physics. Advisor: Prof. Biao Wu
 * **2018-2022(Expected)** University of California, San Diego, Department of Physics. Advisor: Prof. Yi-Zhuang You.
+* **2012-2016** Peking University, Department of Physics. Advisor: Prof. Biao Wu
 
-**Will actively seek for postdoc position in 2021 summer, focus on Machine Learning, Representation Learning, and Physical Science**
+**I am actively seeking for postdoc position that will start in 2022, focus on Quantum information, quantum computation, and machine learning**
   
 :clipboard: You can find more info at [My website](https://www.hongyehu.com)
 
-I am open for collaborations if you share the same passion for combine science and machine learning.
-
-🔭 On the physics side, I used to work on:
-* Quantum adiabatic algorithms
-* Disordered quantum spin systems and topological states
-
-⚡ Fun fact: This is a new account I will try to maintain! 
 
 <!--
 **hongyehu/hongyehu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
