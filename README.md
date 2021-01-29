@@ -1,5 +1,4 @@
-### Hi there 
-My name is Hong-Ye Hu(扈鸿业). I am a physics PhD candidate at University of California, San Diego. 
+My name is **Hong-Ye Hu(扈鸿业)**. I am a physics PhD candidate at University of California, San Diego. 
 I am currently working on the interface between **quantum information**, **many-body physics** and **machine learning**. 
 Especially, I am currently working on the following topics:
 * **Machine learning & Physics**:
