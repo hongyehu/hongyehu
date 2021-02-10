@@ -7,12 +7,12 @@ Especially, I am currently working on the following topics:
   - Neural ODE and holographic QCD. [Paper](https://arxiv.org/pdf/2006.00712.pdf)
   - Tensor networks via auto-differeniation. (In preparation)
 * **Quantum information & Machine learning**:
-  - Classical shadow tomography of quantum states using random Hamiltonian generated shallow circuits
-  - Variational quantum circuits
-  - Quantum state tomography using neural networks [Code](https://github.com/hongyehu/Machine_Learning_Quantum_State_Tomography)
-  - Resonant quantum search with monitor qubits.
+  - Classical shadow tomography of quantum states using random Hamiltonian generated shallow circuits.
+  - Variational quantum circuits.
+  - Quantum state tomography using neural networks. [Code](https://github.com/hongyehu/Machine_Learning_Quantum_State_Tomography)
+  - Resonant quantum search with monitor qubits. [Paper](https://iopscience.iop.org/article/10.1088/0256-307X/37/5/050304/meta)
 * **Condensed matter physics**:
-  - Topological and symmetry-enriched random quantum critical points.[Paper](https://arxiv.org/pdf/2008.02285.pdf),[Code](https://github.com/hongyehu/SBRG)
+  - Topological and symmetry-enriched random quantum critical points. [Paper](https://arxiv.org/pdf/2008.02285.pdf),[Code](https://github.com/hongyehu/SBRG)
   - Detecting confinement-deconfinement phase transition in disorder toric code using spectrum bifurcation renormalization group. (in preparation)
   - Quantum Magnetism in Wannier-Obstructed Mott Insulators. [Paper](https://arxiv.org/pdf/2005.01439.pdf)
 
