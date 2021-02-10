@@ -7,7 +7,7 @@ Especially, I am currently working on the following topics:
   - Neural ODE and holographic QCD. [Paper](https://arxiv.org/pdf/2006.00712.pdf)
   - Tensor networks via auto-differeniation. (In preparation)
 * **Quantum information & Machine learning**:
-  - Theoretical bound of classical shadow tomography using shadow circuits
+  - Classical shadow tomography of quantum states using random Hamiltonian generated shallow circuits
   - Variational quantum circuits
   - Quantum state tomography using neural networks
   - Resonant quantum search with monitor qubits.
