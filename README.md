@@ -3,16 +3,16 @@ I am currently working on the interface between **quantum information**, **many-
 Especially, I am currently working on the following topics:
 * **Machine learning & Physics**:
   - Neural network renormalization group to Holographic mapping, and lattice field theory simulation. [Paper](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.2.023369)
-  - Apply renormalization group to real data, like human face. [Paper](https://arxiv.org/pdf/2010.00029.pdf)
+  - Apply renormalization group to real data, like human face. [Paper](https://arxiv.org/pdf/2010.00029.pdf)[Open source code](https://github.com/hongyehu/RG-Flow)
   - Neural ODE and holographic QCD. [Paper](https://arxiv.org/pdf/2006.00712.pdf)
   - Tensor networks via auto-differeniation. (In preparation)
 * **Quantum information & Machine learning**:
   - Classical shadow tomography of quantum states using random Hamiltonian generated shallow circuits
   - Variational quantum circuits
-  - Quantum state tomography using neural networks
+  - Quantum state tomography using neural networks [Open source code](https://github.com/hongyehu/Machine_Learning_Quantum_State_Tomography)
   - Resonant quantum search with monitor qubits.
 * **Condensed matter physics**:
-  - Topological and symmetry-enriched random quantum critical points.[Paper](https://arxiv.org/pdf/2008.02285.pdf)
+  - Topological and symmetry-enriched random quantum critical points.[Paper](https://arxiv.org/pdf/2008.02285.pdf)[Open source code](https://github.com/hongyehu/SBRG)
   - Detecting confinement-deconfinement phase transition in disorder toric code using spectrum bifurcation renormalization group. (in preparation)
   - Quantum Magnetism in Wannier-Obstructed Mott Insulators. [Paper](https://arxiv.org/pdf/2005.01439.pdf)
 
