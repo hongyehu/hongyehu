@@ -7,7 +7,6 @@ Especially, I am currently working on the following topics:
   - Neural ODE and holographic QCD. [Paper](https://arxiv.org/pdf/2006.00712.pdf)
   - Tensor networks via auto-differeniation. (In preparation)
 * **Quantum information & Machine learning**:
-  - Classical shadow tomography of quantum states using random Hamiltonian generated shallow circuits.
   - Variational quantum circuits.
   - Quantum state tomography using neural networks. [Code](https://github.com/hongyehu/Machine_Learning_Quantum_State_Tomography)
   - Resonant quantum search with monitor qubits. [Paper](https://iopscience.iop.org/article/10.1088/0256-307X/37/5/050304/meta)
@@ -28,7 +27,7 @@ Especially, I am currently working on the following topics:
 
 <!--
 **hongyehu/hongyehu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+- Classical shadow tomography of quantum states using random Hamiltonian generated shallow circuits.
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
