@@ -5,7 +5,7 @@ Especially, I am currently working on the following topics:
   - Neural network renormalization group to Holographic mapping, and lattice field theory simulation. [Paper](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.2.023369)
   - Apply renormalization group to real data, like human face. [Paper](https://arxiv.org/pdf/2010.00029.pdf),[Code](https://github.com/hongyehu/RG-Flow)
   - Neural ODE and holographic QCD. [Paper](https://arxiv.org/pdf/2006.00712.pdf)
-  - Tensor networks via auto-differeniation. (In preparation)
+  - Isometric Tensor networks via auto-differeniation. (In preparation)
 * **Quantum information & Machine learning**:
   - Hamiltonian-driven shadow tomography of quantum states. [Paper](https://arxiv.org/pdf/2102.10132.pdf), [Blog](https://github.com/hongyehu/Hamiltonian-driven-shadow-tomography-page)
   - Quantum state tomography using neural networks. [Code](https://github.com/hongyehu/Machine_Learning_Quantum_State_Tomography)
