@@ -12,7 +12,7 @@ Especially, I am currently working on the following topics:
   - Resonant quantum search with monitor qubits. [Paper](https://iopscience.iop.org/article/10.1088/0256-307X/37/5/050304/meta) Prof. Frank Wilczek also gave a short presentation. [Video](https://www.youtube.com/watch?v=1lnlt7NlLL4)
   - Variational quantum circuits.
 * **Condensed matter physics**:
-  - Topological and symmetry-enriched random quantum critical points. [Paper](https://arxiv.org/pdf/2008.02285.pdf),[Code](https://github.com/hongyehu/SBRG)
+  - Topological and symmetry-enriched random quantum critical points. **Letter, Editor's Suggestion** [Paper](https://arxiv.org/pdf/2008.02285.pdf),[Code](https://github.com/hongyehu/SBRG)
   - Detecting confinement-deconfinement phase transition in disorder toric code using spectrum bifurcation renormalization group. (in preparation)
   - Quantum Magnetism in Wannier-Obstructed Mott Insulators. [Paper](https://arxiv.org/pdf/2005.01439.pdf)
   - Phase-fluctuation Induced Time-Reversal Symmetry Breaking Normal State. [Paper](https://arxiv.org/abs/2102.06158)
