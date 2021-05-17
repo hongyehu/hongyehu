@@ -3,6 +3,8 @@ I am currently working on the interface between **quantum information**, **many-
 
 I am actively seeking for **postdoc position that will start in 2022**, focus on **Quantum information, quantum computation, and machine learning**
 
+(Fun fact) My Erdos Number is 3 (==>Lei Wang==>Gergely Harcos==>Paul Erdos)
+
 Especially, I am currently working on the following topics:
 * **Quantum information & Machine learning**:
   - Hamiltonian-driven shadow tomography of quantum states. [Paper](https://arxiv.org/pdf/2102.10132.pdf), [Blog](https://github.com/hongyehu/Hamiltonian-driven-shadow-tomography-page)
