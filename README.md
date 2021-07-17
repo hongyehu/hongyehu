@@ -7,6 +7,7 @@ I am actively seeking for **postdoc position that will start in 2022**, focus on
 
 Especially, I am currently working on the following topics:
 * **Quantum information & Machine learning**:
+  - Classical shadow tomography with locally scrambled dynamics. [Paper](https://arxiv.org/pdf/2107.04817.pdf)
   - Hamiltonian-driven shadow tomography of quantum states. [Paper](https://arxiv.org/pdf/2102.10132.pdf), [Blog](https://github.com/hongyehu/Hamiltonian-driven-shadow-tomography-page)
   - Quantum state tomography using neural networks. [Code](https://github.com/hongyehu/Machine_Learning_Quantum_State_Tomography)
   - Resonant quantum search with monitor qubits. [Paper](https://iopscience.iop.org/article/10.1088/0256-307X/37/5/050304/meta) Prof. Frank Wilczek also gave a short presentation. [Video](https://www.youtube.com/watch?v=1lnlt7NlLL4)
