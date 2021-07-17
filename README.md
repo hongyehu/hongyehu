@@ -29,7 +29,7 @@ Especially, I am currently working on the following topics:
 * **2012-2016** Peking University, Department of Physics. Advisor: Prof. Biao Wu
 
 🖥️: Experience:
-* **June-October 2021**, Research Intern @ NASA quantum AI Lab, Ames Research Center.
+* **June-Present 2021**, Research Intern @ NASA quantum AI Lab, Ames Research Center.
 * **Sept 2016-March 2018**, Research Intern @ Salk Institute for biological studies. Worked on information theory and vision systems.
 
   
