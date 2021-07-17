@@ -11,6 +11,7 @@ Especially, I am currently working on the following topics:
   - Hamiltonian-driven shadow tomography of quantum states. [Paper](https://arxiv.org/pdf/2102.10132.pdf), [Blog](https://github.com/hongyehu/Hamiltonian-driven-shadow-tomography-page)
   - Quantum state tomography using neural networks. [Code](https://github.com/hongyehu/Machine_Learning_Quantum_State_Tomography)
   - Resonant quantum search with monitor qubits. [Paper](https://iopscience.iop.org/article/10.1088/0256-307X/37/5/050304/meta) Prof. Frank Wilczek also gave a short presentation. [Video](https://www.youtube.com/watch?v=1lnlt7NlLL4)
+  - Machine learning of quantum noise model and error mitigation.
   - Variational quantum circuits.
 * **Machine learning & Physics**:
   - Neural network renormalization group to Holographic mapping, and lattice field theory simulation. [Paper](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.2.023369)
