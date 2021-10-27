@@ -1,7 +1,7 @@
 My name is **Hong-Ye Hu(扈鸿业)**. I am a physics PhD candidate at University of California, San Diego. 
 I am currently working on the interface between **quantum information**, **many-body physics** and **machine learning**. 
 
-I am actively seeking for **postdoc position that will start in 2022**, focus on **Quantum information, quantum computation, and machine learning**
+I am actively seeking for **postdoc position that will start in 2022**, focus on **Quantum information, quantum computation, and (quantum) machine learning**
 
 (Fun fact) My Erdos Number is 3 (==>Lei Wang==>Gergely Harcos==>Paul Erdos)
 
