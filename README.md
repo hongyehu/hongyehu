@@ -1,4 +1,4 @@
-My name is **Hong-Ye Hu(扈鸿业)**. I am a physics PhD candidate at University of California, San Diego. 
+My name is **Hong-Ye Hu(扈鸿业)**. I a physics PhD candidate at University of California, San Diego, and an incoming HQI Fellow at Harvard University.
 I am currently working on the interface between **quantum information**, **many-body physics** and **machine learning**. 
 
 I am actively seeking for **postdoc position that will start in 2022**, focus on **Quantum information, quantum computation, and (quantum) machine learning**
@@ -31,7 +31,7 @@ Especially, I am currently working on the following topics:
 * **2012-2016** Peking University, Department of Physics. Advisor: Prof. Biao Wu
 
 🖥️: Experience:
-* **June-Present 2021**, Research Intern @ NASA quantum AI Lab, Ames Research Center.
+* **June-September 2021**, Research Intern @ NASA quantum AI Lab, Ames Research Center.
 * **Sept 2016-March 2018**, Research Intern @ Salk Institute for biological studies. Worked on information theory and vision systems.
 
   
