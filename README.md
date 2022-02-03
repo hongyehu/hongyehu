@@ -27,8 +27,8 @@ Especially, I am currently working on the following topics:
 
 
 :book: Education:
-* **2018-2022(Expected)** University of California, San Diego, Department of Physics. Advisor: Prof. Yi-Zhuang You.
-* **2012-2016** Peking University, Department of Physics. Advisor: Prof. Biao Wu
+* **2018 March - 2022 February** University of California, San Diego, Department of Physics. Advisor: Prof. Yi-Zhuang You.
+* **2012 September - 2016 June** Peking University, Department of Physics. Advisor: Prof. Biao Wu
 
 🖥️: Experience:
 * **June-September 2021**, Research Intern @ NASA quantum AI Lab, Ames Research Center.
