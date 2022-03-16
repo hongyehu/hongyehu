@@ -10,8 +10,8 @@ Especially, I am currently working on the following topics:
   - Quantum state tomography using neural networks. [Code](https://github.com/hongyehu/Machine_Learning_Quantum_State_Tomography)
   - Resonant quantum search with monitor qubits. [Paper](https://iopscience.iop.org/article/10.1088/0256-307X/37/5/050304/meta) Prof. Frank Wilczek also gave a short presentation. [Video](https://www.youtube.com/watch?v=1lnlt7NlLL4)
   - Provable quantum advantage in sequence modeling. [Paper]
-  - Differentiable programming of isometric tensor network. [Paper]
-  - Machine learning of quantum noise model and error mitigation.
+  - Differentiable programming of isometric tensor network. [Paper](https://iopscience.iop.org/article/10.1088/2632-2153/ac48a2/meta)
+  - Logical shadow tomography: Efficient estimation of error mitigated values. [Paper](https://scirate.com/arxiv/2203.07263)
   - Variational quantum circuits.
 * **Machine learning & Physics**:
   - Neural network renormalization group to Holographic mapping, and lattice field theory simulation. [Paper](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.2.023369)
