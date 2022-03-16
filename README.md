@@ -1,4 +1,4 @@
-My name is **Hong-Ye Hu(扈鸿业)**. I a physics PhD candidate at University of California, San Diego, and an incoming HQI Fellow at Harvard University.
+My name is **Hong-Ye Hu(扈鸿业)**. I an incoming HQI Fellow at Harvard University.
 I am currently working on the interface between **quantum information**, **many-body physics** and **machine learning**. 
 
 (Fun fact) My Erdos Number is 3 (==>Lei Wang==>Gergely Harcos==>Paul Erdos)
@@ -29,7 +29,8 @@ Especially, I am currently working on the following topics:
 * **2012 September - 2016 June** Peking University, Department of Physics. Advisor: Prof. Biao Wu
 
 🖥️: Experience:
-* **June-September 2021**, Research Intern @ NASA quantum AI Lab, Ames Research Center.
+* **May-August 2022**, Quantum Algorithm Intern @ QuEra Computing Inc.
+* **June-September 2021 & March-May 2022**, Research Intern @ NASA quantum AI Lab, Ames Research Center.
 * **Sept 2016-March 2018**, Research Intern @ Salk Institute for biological studies. Worked on information theory and vision systems.
 
   
