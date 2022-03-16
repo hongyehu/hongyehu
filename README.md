@@ -30,7 +30,7 @@ Especially, I am currently working on the following topics:
 
 🖥️: Experience:
 * **May-August 2022**, Quantum Algorithm Intern @ QuEra Computing Inc.
-* **June-September 2021 & March-May 2022**, Research Intern @ NASA quantum AI Lab, Ames Research Center.
+* **June-September 2021 & March-May 2022**, Feynman Research Intern @ NASA quantum AI Lab, Ames Research Center, supported by NAMS Student R&D program.
 * **Sept 2016-March 2018**, Research Intern @ Salk Institute for biological studies. Worked on information theory and vision systems.
 
   
