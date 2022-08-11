@@ -1,4 +1,4 @@
-My name is **Hong-Ye Hu(扈鸿业)**. I an incoming HQI Fellow at Harvard University.
+My name is **Hong-Ye Hu(扈鸿业)**. I a HQI Research Fellow at Harvard University.
 I am currently working on the interface between **quantum information**, **many-body physics** and **machine learning**. 
 
 (Fun fact) My Erdos Number is 3 (==>Lei Wang==>Gergely Harcos==>Paul Erdos)
