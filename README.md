@@ -35,7 +35,7 @@ Especially, I am currently working on the following topics:
 * **Sept 2016-March 2018**, Research Intern @ Salk Institute for biological studies. Worked on information theory and vision systems.
 
   
-:clipboard: You can find more info at [My website](https://www.hongyehu.com)
+:clipboard: You can find more info at [My website]([https://www.hongyehu.com](https://scholar.harvard.edu/hongyehu))
 
 
 <!--
