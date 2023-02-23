@@ -1,4 +1,4 @@
-My name is **Hong-Ye Hu(扈鸿业)**. I am currently a HQI Postdoctoral Fellow at Harvard University.
+My name is **Hong-Ye Hu**. I am currently a HQI Postdoctoral Fellow at Harvard University.
 I am currently working on the interface between **quantum computation**, **machine learning** and **many-body physics**. 
 
 :book: Education:
