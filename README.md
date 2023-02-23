@@ -1,10 +1,20 @@
-My name is **Hong-Ye Hu(扈鸿业)**. I a HQI Postdoctoral Fellow at Harvard University.
-I am currently working on the interface between **quantum information**, **many-body physics** and **machine learning**. 
+My name is **Hong-Ye Hu(扈鸿业)**. I am currently a HQI Postdoctoral Fellow at Harvard University.
+I am currently working on the interface between **quantum computation**, **machine learning** and **many-body physics**. 
 
-(Fun fact) My Erdos Number is 3 (==>Lei Wang==>Gergely Harcos==>Paul Erdos)
+:book: Education:
+* **2018 March - 2022 February** University of California, San Diego, Department of Physics. Advisor: Prof. Yi-Zhuang You.
+* **2012 September - 2016 June** Peking University, Department of Physics. Advisor: Prof. Biao Wu
 
-Especially, I am currently working on the following topics:
-* **Quantum information & (Quantum) Machine learning**:
+🖥️: Experience:
+* **September 2022 - Present**, Harvard Quantum Initiative Postdoc Fellow @ Harvard Physics, and Harvard Quantum Science & Engineering 
+* **May-August 2022**, Quantum Algorithm Intern @ QuEra Computing Inc.
+* **June-September 2021 & March-May 2022**, Feynman Research Intern @ NASA quantum AI Lab, Ames Research Center, supported by NAMS Student R&D program.
+* **Sept 2016-March 2018**, Research Intern @ Salk Institute for biological studies. Worked on information theory and vision systems.
+
+<img src="/doc/logo.png" alt="Alt text" height="180" width="635">
+
+Some collections of my research:
+* **Quantum computation & (Quantum) Machine learning**:
   - Classical shadow tomography with locally scrambled dynamics. [Paper](https://arxiv.org/pdf/2107.04817.pdf)
   - Hamiltonian-driven shadow tomography of quantum states. [Paper](https://arxiv.org/pdf/2102.10132.pdf), [Blog](https://github.com/hongyehu/Hamiltonian-driven-shadow-tomography-page)
   - Quantum state tomography using neural networks. [Code](https://github.com/hongyehu/Machine_Learning_Quantum_State_Tomography)
@@ -22,22 +32,21 @@ Especially, I am currently working on the following topics:
   - Detecting confinement-deconfinement phase transition in disorder toric code using spectrum bifurcation renormalization group. (in preparation)
   - Quantum Magnetism in Wannier-Obstructed Mott Insulators. [Paper](https://arxiv.org/pdf/2005.01439.pdf)
   - Phase-fluctuation Induced Time-Reversal Symmetry Breaking Normal State. [Paper](https://arxiv.org/abs/2102.06158)
-
-
-:book: Education:
-* **2018 March - 2022 February** University of California, San Diego, Department of Physics. Advisor: Prof. Yi-Zhuang You.
-* **2012 September - 2016 June** Peking University, Department of Physics. Advisor: Prof. Biao Wu
-
-🖥️: Experience:
-* **September 2022 - Present**, Harvard Quantum Initiative Postdoc Fellow @ Harvard Physics, and Harvard Quantum Science & Engineering 
-* **May-August 2022**, Quantum Algorithm Intern @ QuEra Computing Inc.
-* **June-September 2021 & March-May 2022**, Feynman Research Intern @ NASA quantum AI Lab, Ames Research Center, supported by NAMS Student R&D program.
-* **Sept 2016-March 2018**, Research Intern @ Salk Institute for biological studies. Worked on information theory and vision systems.
+  
 
   
 :clipboard: You can find more info at [my Harvard webpage](https://scholar.harvard.edu/hongyehu)
 
+<!--
+(Fun fact) My Erdos Number is 3 (==>Lei Wang==>Gergely Harcos==>Paul Erdos)
 
+
+
+
+
+
+
+-->
 <!--
 **hongyehu/hongyehu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 - Classical shadow tomography of quantum states using random Hamiltonian generated shallow circuits.
