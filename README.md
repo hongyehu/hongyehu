@@ -12,7 +12,7 @@ I am currently working on the interface between **quantum computation**, **machi
 * **Sept 2016-March 2018**, Research Intern @ Salk Institute for biological studies. Worked on information theory and vision systems.
 
 <img src="/doc/logo.png" alt="Alt text" height="120" width="412">
-
+<!--
 Some collections of my research:
 * **Quantum computation & (Quantum) Machine learning**:
   - Classical shadow tomography with locally scrambled dynamics. [Paper](https://arxiv.org/pdf/2107.04817.pdf)
@@ -32,7 +32,7 @@ Some collections of my research:
   - Detecting confinement-deconfinement phase transition in disorder toric code using spectrum bifurcation renormalization group. (in preparation)
   - Quantum Magnetism in Wannier-Obstructed Mott Insulators. [Paper](https://arxiv.org/pdf/2005.01439.pdf)
   - Phase-fluctuation Induced Time-Reversal Symmetry Breaking Normal State. [Paper](https://arxiv.org/abs/2102.06158)
-  
+  -->
 
   
 :clipboard: You can find more info at [my Harvard webpage](https://scholar.harvard.edu/hongyehu)
