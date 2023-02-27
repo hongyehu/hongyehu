@@ -11,7 +11,7 @@ I am currently working on the interface between **quantum computation**, **machi
 * **June-September 2021 & March-May 2022**, Feynman Research Intern @ NASA quantum AI Lab, Ames Research Center, supported by NAMS Student R&D program.
 * **Sept 2016-March 2018**, Research Intern @ Salk Institute for biological studies. Worked on information theory and vision systems.
 
-<img src="/doc/logo.png" alt="Alt text" height="120" width="412">
+<img src="/doc/logo.png" alt="Alt text" height="100" width="360">
 <!--
 Some collections of my research:
 * **Quantum computation & (Quantum) Machine learning**:
