@@ -2,7 +2,7 @@ My name is **Hong-Ye Hu**. I am currently a HQI Postdoctoral Fellow at Harvard U
 I am currently working on the interface between **quantum computation**, **machine learning** and **many-body physics**. 
 
 ![](https://komarev.com/ghpvc/?username=hongyehu) \
-[![Hong-Ye's GitHub stats](https://github-readme-stats.vercel.app/api?username=hongyehu)](https://github.com/hongyehu/github-readme-stats) \
+[![Hong-Ye's GitHub stats](https://github-readme-stats.vercel.app/api?username=hongyehu)](https://github.com/hongyehu/github-readme-stats) 
 <!-- [![Hong-Ye's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=hongyehu&layout=compact)](https://github.com/hongyehu/github-readme-stats) -->
 
 :book: Education:
