@@ -3,7 +3,7 @@ I am currently working on the interface between **quantum computation**, **machi
 
 ![](https://komarev.com/ghpvc/?username=hongyehu) \
 [![Hong-Ye's GitHub stats](https://github-readme-stats.vercel.app/api?username=hongyehu)](https://github.com/hongyehu/github-readme-stats) \
-[![Hong-Ye's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=hongyehu&layout=compact)](https://github.com/hongyehu/github-readme-stats)
+<!-- [![Hong-Ye's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=hongyehu&layout=compact)](https://github.com/hongyehu/github-readme-stats) -->
 
 :book: Education:
 * **2018 March - 2022 February** University of California, San Diego, Department of Physics. Advisor: Prof. Yi-Zhuang You.
