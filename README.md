@@ -7,15 +7,15 @@ I am currently working on the interface between **quantum computation**, **machi
 <!-- [![Hong-Ye's GitHub stats](https://github-readme-stats.vercel.app/api?username=hongyehu)](https://github.com/hongyehu/github-readme-stats)  -->
 [![Hong-Ye's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=hongyehu&layout=compact)](https://github.com/hongyehu/github-readme-stats)
 
-:book: Education:
-* **2018 March - 2022 February** University of California, San Diego, Department of Physics. Advisor: Prof. Yi-Zhuang You.
-* **2012 September - 2016 June** Peking University, Department of Physics. Advisor: Prof. Biao Wu
-
-🖥️: Experience:
+🖥️: Working Experience:
 * **September 2022 - Present**, Harvard Quantum Initiative Postdoc Fellow @ Harvard Physics, and Harvard Quantum Science & Engineering 
 * **May-August 2022**, Quantum Algorithm Intern @ QuEra Computing Inc.
 * **June-September 2021 & March-May 2022**, Feynman Research Intern @ NASA quantum AI Lab, Ames Research Center, supported by NAMS Student R&D program.
 * **Sept 2016-March 2018**, Research Intern @ Salk Institute for biological studies. Worked on information theory and vision systems.
+
+:book: Education:
+* **2018 March - 2022 February** University of California, San Diego, Department of Physics. Advisor: Prof. Yi-Zhuang You.
+* **2012 September - 2016 June** Peking University, Department of Physics. Advisor: Prof. Biao Wu
 
 <img src="/doc/logo.png" alt="Alt text" height="100" width="350">
 <!--
