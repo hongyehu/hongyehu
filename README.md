@@ -17,7 +17,7 @@ I am currently working on the interface between **quantum computation**, **machi
 * **2018 March - 2022 February** University of California, San Diego, Department of Physics. Advisor: Prof. Yi-Zhuang You.
 * **2012 September - 2016 June** Peking University, Department of Physics. Advisor: Prof. Biao Wu
 
-<img src="/doc/logo.png" alt="Alt text" height="80" width="280">
+<img src="/doc/logo.png" alt="Alt text" height="216" width="756">
 <!--
 Some collections of my research:
 * **Quantum computation & (Quantum) Machine learning**:
