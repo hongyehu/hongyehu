@@ -1,6 +1,6 @@
 <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" class="center">
 
-My name is **Hong-Ye Hu**. I am currently a HQI Postdoctoral Fellow at Harvard University.
+My name is **Hong-Ye Hu**. I am currently an HQI Postdoctoral Fellow at Harvard University.
 I am currently working on the interface between **quantum computation**, **machine learning** and **many-body physics**. 
 
 ![](https://komarev.com/ghpvc/?username=hongyehu) 
