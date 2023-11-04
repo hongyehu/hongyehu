@@ -8,7 +8,7 @@ I am currently working on the interface between **quantum computation**, **machi
 [![Hong-Ye's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=hongyehu&hide=jupyter%20notebook&layout=donut&langs_count=10)](https://github.com/hongyehu/github-readme-stats)
 
 🖥️: Working Experience:
-* **September 2022 - Present**, Harvard Quantum Initiative Postdoc Fellow @ Harvard Physics, and Harvard Quantum Science & Engineering 
+* **September 2022 - Present**, Harvard Quantum Initiative Fellow @ Harvard Physics, and Harvard Quantum Science & Engineering 
 * **May-August 2022**, Quantum Algorithm Intern @ QuEra Computing Inc.
 * **June-September 2021 & March-May 2022**, Feynman Research Intern @ NASA quantum AI Lab, Ames Research Center, supported by NAMS Student R&D program.
 * **Sept 2016-March 2018**, Research Intern @ Salk Institute for biological studies. Worked on information theory and vision systems.
