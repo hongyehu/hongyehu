@@ -5,7 +5,7 @@ I am currently working on the interface between **quantum computation**, **machi
 
 ![](https://komarev.com/ghpvc/?username=hongyehu) 
 <!-- [![Hong-Ye's GitHub stats](https://github-readme-stats.vercel.app/api?username=hongyehu)](https://github.com/hongyehu/github-readme-stats) -->
-[![Hong-Ye's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=hongyehu&hide=jupyter%HTML20notebook&layout=donut&langs_count=30)](https://github.com/hongyehu/github-readme-stats)
+[![Hong-Ye's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=hongyehu&hide=jupyter%20notebook,HTML&layout=donut&langs_count=30)](https://github.com/hongyehu/github-readme-stats)
 
 🖥️: Working Experience:
 * **September 2022 - Present**, Harvard Quantum Initiative Fellow @ Harvard Physics, and Harvard Quantum Science & Engineering 
